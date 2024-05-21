@@ -21,7 +21,7 @@ To use this application users need to navigate to the website where they will be
 ## Application
 The project can be found here: https://cl0set-53b5e02f72c6.herokuapp.com/<br>
 <br>
-![alt text](<Screenshot 2024-05-20 at 8.21.47 PM.png>)
+![alt text](<public/images/Screenshot 2024-05-20 at 8.21.47 PM.png>)
 
 ## License
 This project is covered under the [MIT](https://opensource.org/licenses/MIT) license.
